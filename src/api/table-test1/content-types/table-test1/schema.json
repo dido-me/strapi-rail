@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "table_test1s",
+  "info": {
+    "singularName": "table-test1",
+    "pluralName": "table-test1s",
+    "displayName": "table_test1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
